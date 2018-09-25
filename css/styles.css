@@ -1,4 +1,6 @@
 @charset "UTF-8";
+
+
 .underNone {
   text-decoration: none; }
   .underNone:hover {
@@ -1306,3 +1308,7 @@ a img.aligncenter {
   line-height: 17px;
   margin: 0;
   padding: 0 4px 5px; }
+.container h1 a{
+  color: #333;
+    text-decoration: none;
+    font-weight: bold; }
